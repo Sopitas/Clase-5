@@ -1,0 +1,20 @@
+html
+
+*{
+	font-family: sans-serif;
+}
+body {
+	background-image: url("IMG/mosaico.jpg");
+	background-size: cover;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    }
+
+p {color: blue;}
+
+image: url ("IMG/PREMIER_LEAGUE_entrenadores.jpg");
+
+
